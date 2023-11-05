@@ -11,8 +11,10 @@ Before using this script, you need to ensure the following:
    ```
    pip install scapy
    ```
-
 2. You have `iptables` installed, as the script uses it to block malicious IP addresses.
+   ```
+   sudo apt-get install iptables
+   ```
 
 ## Usage
 
